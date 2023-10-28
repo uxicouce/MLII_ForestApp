@@ -127,25 +127,25 @@ def main():
         
     st.success(species)
     if (species == 'Spruce/Fir Forest Type'):
-        st.image('./media/Spruce-Fir.jpg')
+        st.image('./Spruce-Fir.jpg')
         st.caption('Spruce/Fir Forest Type') 
     elif (species == 'Lodgepole Pine Forest Type'):
-        st.image('./media/Lodgepole-Pine.jpg')
+        st.image('./Lodgepole-Pine.jpg')
         st.caption( 'Lodgepole Pine Forest Type')
     elif (species == 'Ponderosa Pine Forest Type'):
-        st.image('./media/PonderosaPine.jpg')
+        st.image('./PonderosaPine.jpg')
         st.caption('Ponderosa Pine Forest Type')
     elif (species == 'Cottonwood/Willow Forest Type'):
-        st.image('./media/Cottonwood-Willow.webp')
+        st.image('./Cottonwood-Willow.webp')
         st.caption( 'Cottonwood/Willow Forest Type')
     elif (species == 'Aspen Forest Type'):
-        st.image('./media/Aspen.webp')
+        st.image('./Aspen.webp')
         st.caption( 'Aspen Forest Type')
     elif (species == 'Douglas-fir Forest Type'):
-        st.image('./media/Douglas-fir.jpg')
+        st.image('./Douglas-fir.jpg')
         st.caption( 'Douglas-fir Forest Type')
     elif (species == 'Krummholz Forest Type'):
-        st.image('./media/Krummholz.jpg')
+        st.image('./Krummholz.jpg')
         st.caption(  'Krummholz Forest Type')
     
 
